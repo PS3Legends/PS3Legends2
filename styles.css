@@ -211,15 +211,6 @@ hr {
 		display: block;
 	}
 
-	#page-wrap {
-		margin-top: 70px;
-		width: 95%;
-		max-width: 100%;
-		padding: 15px;
-		border-width: 6px;
-		font-size: 14px;
-	}
-
 	.container {
 		flex-direction: column;
 	}
