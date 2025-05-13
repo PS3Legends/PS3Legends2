@@ -192,7 +192,6 @@ hr {
 	margin: 20px 0;
 }
 
-/* الجوال */
 @media (max-width: 768px) {
 	.sidebar {
 		left: -250px;
