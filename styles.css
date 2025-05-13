@@ -7,10 +7,8 @@ body {
 }
 
 .container {
-	display: flex;
-	flex-direction: column;
-	min-height: 100vh;
-	position: relative;
+	margin: 20px auto;
+    width: 95%;
 }
 
 .sidebar {
@@ -212,13 +210,12 @@ hr {
 	}
 
 	#page-wrap {
+		margin-top: 70px;
 		width: 44%;
-margin: 45px auto;
-padding: 65px;
-min-height: 600px;
--moz-border-radius: 30px;
--webkit-border-radius: 30px;
-border-radius: 30px;
+		max-width: 100%;
+		padding: 15px;
+		border-width: 6px;
+		font-size: 14px;
 	}
 
 	.container {
