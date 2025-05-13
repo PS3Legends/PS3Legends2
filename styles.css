@@ -211,6 +211,16 @@ hr {
 		display: block;
 	}
 
+	#page-wrap {
+		width: 44%;
+margin: 45px auto;
+padding: 65px;
+min-height: 600px;
+-moz-border-radius: 30px;
+-webkit-border-radius: 30px;
+border-radius: 30px;
+	}
+
 	.container {
 		flex-direction: column;
 	}
